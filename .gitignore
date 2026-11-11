@@ -1,8 +1,4 @@
 __pycache__/
-*.py[cod]
-.project
-.pydevproject
-*.so
-.eggs
-.idea
-*egg-info
+*.pyc
+*.zip
+ml-latest-small/
